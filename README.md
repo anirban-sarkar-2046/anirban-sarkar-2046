@@ -1,6 +1,6 @@
 <!-- Display an image at the beginning -->
 <p align="center">
-  <img src="assets/Bio.jpg" alt="Banner Image" width="100%" />
+  <img src="assets/Bio.jpg" alt="Banner Image" width="50%" />
 </p>
 
 ## 🌐 Socials:
